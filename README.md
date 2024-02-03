@@ -2,7 +2,7 @@ E-Commerce Store - React and Tailwind
 Welcome to our E-Commerce Store built with React and Tailwind CSS. This project provides a sleek and responsive user interface for online shopping. You can explore various products, add items to your cart, and enjoy a seamless shopping experience.
 
 Demo
-Check out our live demo visionaryvibes.netlify.app
+Check out our live demo [Website Demos - Eyewear Store](https://visionaryvibes.netlify.app)
 
 Features
 Product Categories: Explore a wide range of products categorized under Men and Women sections.
