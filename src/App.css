@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+.title{
+  font-family: 'Cinzel', serif;
+}
+
+
