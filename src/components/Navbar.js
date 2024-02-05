@@ -163,7 +163,7 @@ const Navbar = () => {
               )}
             </button>
             {state.totalItem > 0 && (
-              <span className="absolute top-1  bg-red-500 text-white rounded-full px-2">
+              <span className="absolute top-1  bg-red-500 text-white rounded-full px-2 -ml-3">
                 {state.totalItem}
               </span>
             )}

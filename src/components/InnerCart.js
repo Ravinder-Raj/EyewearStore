@@ -15,7 +15,7 @@ const Cart = () => {
         <div className="flex flex-wrap  border border-red  ">
           {state.totalItem > 0 &&
             state.cart.map((product, index) => (
-              <div key={index} className=" my-5  rounded-md flex  gap-8   mx-auto">
+              <div key={index} className=" my-5  rounded-md flex  gap-14   mx-auto">
                 <div className=" flex   bg-slate-200 w-ma">
                   {" "}
                   <img
