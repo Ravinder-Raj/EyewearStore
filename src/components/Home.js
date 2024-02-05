@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import sample from "../asset/home1.1.jpeg";
+import sample from "../asset/home1.2.jpg";
 import sample1 from "../asset/home2.jpg";
 import sample2 from "../asset/20433.jpg";
 import sample3 from "../asset/home4.jpg";
