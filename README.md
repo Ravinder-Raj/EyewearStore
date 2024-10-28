@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ecommerce-store.git
+git clone https://github.com/Ravinder-Raj/EyewearStore
 Install dependencies:
 
 bash
